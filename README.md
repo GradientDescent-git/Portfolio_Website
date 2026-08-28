@@ -1,4 +1,4 @@
-# Vigneshwaran M — Personal Developer Portfolio
+# Vigneshwaran M — Portfolio  Website
 
 Standalone developer portfolio website for **Vigneshwaran M** (AI & Data Science Engineer), featuring **Finemed PharmaAI** as the flagship real-world enterprise client project alongside additional ML projects, GATE 2026 qualification, LeetCode accomplishments, and core technical skills.
 
